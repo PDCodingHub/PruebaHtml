@@ -1,2 +1,2 @@
 Holis, estoy modificando el archivo desde dentro de github
-Tienes que hacer pull para ver los cambios, piratilla ;)
+Tienes que hacer pull para ver los cambios, piratilla
